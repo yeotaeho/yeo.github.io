@@ -1,0 +1,50 @@
+[
+    {
+        "id":44,
+        "url":"./img/Pick_img9.png",
+        "name":"경량 테이퍼드 여성 카고팬츠",
+        "price":"149,000원"
+    },
+        {
+        "id":45,
+        "url":"./img/Pick_img10.png",
+        "name":"프레시벤트 우븐 트레이닝 포켓 반팔티셔츠",
+        "price":"89,000원"
+    },
+        {
+        "id":46,
+        "url":"./img/Pick_img11.png",
+        "name":"프레시벤트 우븐 트레이닝 카고 쇼츠",
+        "price":"109,000원"
+    },
+        {
+        "id":47,
+        "url":"./img/Pick_img12.png",
+        "name":"우븐 하이브리드 트레이닝 반팔 맨투맨",
+        "price":"79,000원"
+    },
+        {
+        "id":48,
+        "url":"./img/Pick_img13.png",
+        "name":"우븐 하이브리드 트레이닝 쇼츠",
+        "price":"89,000원"
+    },
+        {
+        "id":49,
+        "url":"./img/Pick_img14.png",
+        "name":"모노키니 여성 수영복",
+        "price":"99,000원"
+    },
+        {
+        "id":50,
+        "url":"./img/Pick_img15.png",
+        "name":"반팔 여성 크롭 워터탑",
+        "price":"79,000원"
+    },
+        {
+        "id":51,
+        "url":"./img/Pick_img16.png",
+        "name":"슬리브리스 여성 크롭 워터탑",
+        "price":"69,000원"
+    }
+]
